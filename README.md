@@ -7,6 +7,7 @@ sudo nano /boot/config.txt
 Add the line at the bottom:
 
 core_freq=250
+
 enable_uart=1
 
 save your changes and reboot for changes to take effect.
