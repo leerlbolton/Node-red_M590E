@@ -15,6 +15,7 @@ save your changes and reboot for changes to take effect.
 2, Disable the Console:
 
 sudo systemctl stop serial-getty@ttyS0.service
+
 sudo systemctl disable serial-getty@ttyS0.service
 
 sudo nano /boot/cmdline.txt
