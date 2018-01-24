@@ -24,7 +24,7 @@ remove the line: console=serial0,115200
 
 save your changes and reboot for changes to take effect.
 
-
+***********************
 
 Install The Flow:
 
@@ -57,7 +57,9 @@ This sets a global variable with your phone number so that all other functions d
 
 This code uses the default settings on your GSM Module
 
-*** Serial Settings ***
+***********************
+
+Serial Settings:
 
 
 
